@@ -1,0 +1,37 @@
+/* .App {
+  text-align: center;
+  background-image: url("https://d27jtzrzu07nn1.cloudfront.net/media/images/COVID-Stripes-for-website.2e16d0ba.fill-760x285-c100.jpg");
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+} */
+
+
+.App-logo {
+  height: 40vmin;
+} 
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.display-4{
+  text-align: center;
+  font-family: Arial;
+  font-style: inherit;
+  font-weight: bold;
+}
+.navbar-brand{
+  text-align: left;
+  font-weight: 500;
+  font-style: bold;
+}
